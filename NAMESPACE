@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+
+export(hello)
+export(Dalenius)
+import(stringr)
+import(ggplot2)
